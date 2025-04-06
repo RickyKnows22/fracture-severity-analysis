@@ -50,7 +50,7 @@ In emergency departments and orthopedic clinics worldwide, bone fracture diagnos
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bone-fracture-analysis.git
+   git clone https://github.com/RickyKnows22/fracture-severity-analysis.git
    cd bone-fracture-analysis
    ```
 
